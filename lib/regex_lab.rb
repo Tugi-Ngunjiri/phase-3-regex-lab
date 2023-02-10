@@ -17,12 +17,28 @@ end
 def words_five_letters_long(text)
     puts text 
 
+    puts ("write")
+    puts ("grind")
+    puts ("birdy")
+    puts ("comes")
+
 end
 
 def first_word_capitalized_and_ends_with_punctuation?(text)
 
+    puts text
+
+puts ("Talk!")
+puts ("Walk!")
+puts ("Speech!")
+puts ("Going!")
 end
 
 def valid_phone_number?(phone)
+puts phone phone_number?
 
+puts(" + 254 743518690")
+puts(" +254  765239014 ")
+puts("+254 781432952 ")
+puts("+254  758213980")
 end
